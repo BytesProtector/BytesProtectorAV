@@ -1,0 +1,277 @@
+{
+  "heuristics_revision": "2025-06-20",
+  "rule_set": [
+    {
+      "id": "HEUR_STRUCT_001",
+      "name": "PE_RWX_Section_High_Entropy",
+      "severity": 9,
+      "type": "structural",
+      "os": "windows",
+      "condition": "pe.sections.any(.rwx and .entropy>7.3)"
+    },
+    {
+      "id": "HEUR_STRUCT_002",
+      "name": "Tiny_Header_Giant_Overlay",
+      "severity": 8,
+      "type": "structural",
+      "os": "windows",
+      "condition": "pe.headers_size<1024 and overlay.size>51200 and overlay.entropy>7.5"
+    },
+    {
+      "id": "HEUR_STRUCT_003",
+      "name": "No_Import_Table_Executable",
+      "severity": 10,
+      "type": "structural",
+      "os": "windows",
+      "condition": "pe.import_table.size==0 and pe.entry_point not in pe.headers"
+    },
+    {
+      "id": "HEUR_IMPORT_004",
+      "name": "Classic_Injection_Trio",
+      "severity": 9,
+      "type": "import",
+      "os": "windows",
+      "condition": "imports.superset(['VirtualAllocEx','WriteProcessMemory','CreateRemoteThread'])"
+    },
+    {
+      "id": "HEUR_IMPORT_005",
+      "name": "Ransomware_Imports",
+      "severity": 10,
+      "type": "import",
+      "os": "windows",
+      "condition": "imports.any(['CryptEncrypt','CryptGenKey']) and imports.any(['vssadmin','wbadmin','bcdedit'])"
+    },
+    {
+      "id": "HEUR_CODE_006",
+      "name": "SalineWin_RunPE_Stub",
+      "severity": 10,
+      "type": "code_hash",
+      "os": "windows",
+      "condition": "any(8b_hash=='a5632b914f8e0738')"
+    },
+    {
+      "id": "HEUR_CODE_007",
+      "name": "Nim_Crypter_Runtime",
+      "severity": 8,
+      "type": "code_hash",
+      "os": "windows",
+      "condition": "any(8b_hash=='eb1c56418bf08bfa')"
+    },
+    {
+      "id": "HEUR_ENTROPY_008",
+      "name": "PE_Text_Section_Entropy_Spike",
+      "severity": 2,
+      "type": "structural",
+      "os": "windows",
+      "condition": "pe.section('.text') and pe.section('.text').entropy>7.9 and pe.section('.text').size>8192"
+    },
+    {
+      "id": "HEUR_FAKE_IMG_009",
+      "name": "Image_Ext_Hides_PE",
+      "severity": 8,
+      "type": "structural",
+      "os": "windows",
+      "condition": "file.ext in ['png','jpg','jpeg','gif','bmp'] and pe.valid_dos_header"
+    },
+    {
+      "id": "HEUR_ELF_010",
+      "name": "Elf_Stripped_Static",
+      "severity": 8,
+      "type": "structural",
+      "os": "linux",
+      "condition": "elf.header.e_shoff==0 and elf.header.e_type==2 and not elf.segments.any(.type=='PT_INTERP')"
+    },
+    {
+      "id": "HEUR_MACHO_011",
+      "name": "AdHoc_Not_Notarized",
+      "severity": 7,
+      "type": "structural",
+      "os": "macos",
+      "condition": "macho.signatures.any(.type=='ad-hoc') and macho.signatures.none(.type=='apple')"
+    },
+    {
+      "id": "HEUR_OFFICE_012",
+      "name": "Macro_AutoOpen_Download",
+      "severity": 9,
+      "type": "keyword",
+      "os": "windows",
+      "condition": "office.ext in ['doc','docm','xls','xlsm','ppt','pptm'] and office.vba.contains_all(['AutoOpen','URLDownloadToFile','Shell'])"
+    },
+    {
+      "id": "HEUR_POWERSHELL_013",
+      "name": "PowerShell_Bypass_Compressed",
+      "severity": 8,
+      "type": "keyword",
+      "os": "windows",
+      "condition": "script.ext=='ps1' and script.contains_all(['-WindowStyle Hidden','-ExecutionPolicy Bypass','FromBase64String'])"
+    },
+    {
+      "id": "HEUR_RANSOM_014",
+      "name": "Double_File_Extension",
+      "severity": 6,
+      "type": "filesystem",
+      "os": "windows",
+      "condition": "filesystem.write_file matches '*.pdf.exe' or '*.doc.exe' or '*.jpg.exe'"
+    },
+    {
+      "id": "HEUR_PERSIST_015",
+      "name": "Run_Key_Hidden",
+      "severity": 7,
+      "type": "registry",
+      "os": "windows",
+      "condition": "registry.set_value('HKCU\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run',data matches '.*\\\\.*\\\\.*\\\\.*\\\\.*')"
+    },
+    {
+      "id": "HEUR_NETWORK_016",
+      "name": "DNS_Tunnel_Base64",
+      "severity": 8,
+      "type": "network",
+      "os": "any",
+      "condition": "dns.query matches '[A-Za-z0-9+/]{40,}='"
+    },
+    {
+      "id": "HEUR_PROCESS_017",
+      "name": "Hollow_Checksum_Mismatch",
+      "severity": 9,
+      "type": "behaviour",
+      "os": "windows",
+      "condition": "process.image_checksum != filesystem.file_checksum(process.image_path)"
+    },
+    {
+      "id": "HEUR_BOOT_018",
+      "name": "MBR_Overwrite",
+      "severity": 10,
+      "type": "behaviour",
+      "os": "windows",
+      "condition": "disk.write_offset==0 and bytes_written>=512"
+    },
+    {
+      "id": "HEUR_FIRMWARE_019",
+      "name": "Bios_Flash_Tool",
+      "severity": 10,
+      "type": "process",
+      "os": "windows",
+      "condition": "process.name in ['flashrom','fptw','afuwingui'] and process.parent! in ['msiexec','instdrv']"
+    },
+    {
+      "id": "HEUR_JAVA_020",
+      "name": "Jar_Dropper_In_Temp",
+      "severity": 7,
+      "type": "filesystem",
+      "os": "any",
+      "condition": "filesystem.write_file matches '/tmp/.*\\.jar' or 'C:\\\\Users\\\\.*\\\\AppData\\\\Local\\\\Temp\\\\.*\\.jar'"
+    },
+    {
+      "id": "HEUR_PYTHON_021",
+      "name": "PyInstaller_Evil_Imports",
+      "severity": 7,
+      "type": "import",
+      "os": "any",
+      "condition": "pyinstaller and imports.any(['socket','subprocess','ctypes','requests']) and pe.section('.text').entropy>7.5"
+    },
+    {
+      "id": "HEUR_GOLANG_022",
+      "name": "Go_Static_Elf_Strip",
+      "severity": 7,
+      "type": "structural",
+      "os": "linux",
+      "condition": "elf.go_build_version and elf.header.e_shoff==0"
+    },
+    {
+      "id": "HEUR_RUST_023",
+      "name": "Rust_Crypter_Panic",
+      "severity": 7,
+      "type": "keyword",
+      "os": "any",
+      "condition": "rust.panic_handler and pe.section('.text').entropy>7.6"
+    },
+    {
+      "id": "HEUR_NODRIVER_024",
+      "name": "RawSocket_NoDriver",
+      "severity": 8,
+      "type": "behaviour",
+      "os": "windows",
+      "condition": "socket.raw and not driver.loaded('npf.sys')"
+    },
+    {
+      "id": "HEUR_CLIPPER_025",
+      "name": "Clipboard_Btc_Regex",
+      "severity": 7,
+      "type": "behaviour",
+      "os": "any",
+      "condition": "clipboard.set matches '^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$'"
+    },
+    {
+      "id": "HEUR_TOKEN_026",
+      "name": "Discord_Webhook_Exfil",
+      "severity": 8,
+      "type": "network",
+      "os": "any",
+      "condition": "https.post and header['User-Agent']=='Mozilla/5.0 (compatible; Discordbot/2.0)' and body_length>10000"
+    },
+    {
+      "id": "HEUR_UAC_027",
+      "name": "FodHelper_Bypass",
+      "severity": 9,
+      "type": "behaviour",
+      "os": "windows",
+      "condition": "registry.set_value('HKCU\\\\Software\\\\Classes\\\\ms-settings\\\\Shell\\\\Open\\\\command')"
+    },
+    {
+      "id": "HEUR_SERVICE_028",
+      "name": "Svc_Binary_In_Temp",
+      "severity": 8,
+      "type": "filesystem",
+      "os": "windows",
+      "condition": "filesystem.write_file matches '.*\\\\Temp\\\\.*\\.exe' and sc.create_service imagePath matches same_path"
+    },
+    {
+      "id": "HEUR_WMI_029",
+      "name": "WMI_Event_Consumer",
+      "severity": 8,
+      "type": "behaviour",
+      "os": "windows",
+      "condition": "wmi.create_instance('ActiveScriptEventConsumer')"
+    },
+    {
+      "id": "HEUR_ADS_030",
+      "name": "Alternate_Data_Stream",
+      "severity": 6,
+      "type": "filesystem",
+      "os": "windows",
+      "condition": "filesystem.write_file matches '.*:.*' and size>1024"
+    },
+    {
+      "id": "HEUR_CERT_031",
+      "name": "Fake_Adobe_Cert",
+      "severity": 7,
+      "type": "structural",
+      "os": "windows",
+      "condition": "pe.certificate.subject contains 'Adobe Systems' and pe.certificate.issuer != 'DigiCert Inc'"
+    },
+    {
+      "id": "HEUR_SALINE_032",
+      "name": "SalineWin_Family_Generic",
+      "severity": 3,
+      "type": "code_hash",
+      "os": "windows",
+      "condition": "any(8b_hash in ['a5632b914f8e0738','eb1c56418bf08bfa','3d67d55eaa5b5d6f','72e5a7c7a39f4b9c'])"
+    },
+    {
+      "id": "HEUR_SALINE_032",
+      "name": "SalineWin_Family_Hash",
+      "severity": 4,
+      "type": "code_hash",
+      "os": "windows",
+      "condition": "any(8b_hash in ['a5632b914f8e0738','eb1c56418bf08bfa','3d67d55eaa5b5d6f','72e5a7c7a39f4b9c'])"
+    },
+    {
+      "id": "HEUR_SALINE_033",
+      "name": "SalineWin_Strings",
+      "severity": 4,
+      "type": "keyword",
+      "os": "windows",
+      "condition": "pe and strings.contains_all(['salinewin','runpe'])"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+==== START: 14/11/2025 21:45:16.05 ==== 
+SELF=C:\Program Files\BytesProtector V1.9.3\run_bytesprotector.bat 
+DIR=C:\Program Files\BytesProtector V1.9.3\ 
+Checking for admin... 
+Running as admin. 
+Created VBS at C:\Users\m4rdr\AppData\Local\Temp\silent_run.vbs 
+Checking for python... 
+Using python interpreter 
+Python execution finished. 

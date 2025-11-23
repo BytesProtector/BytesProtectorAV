@@ -1,0 +1,744 @@
+2025-11-17 20:14:02,657 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:02,657 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:08,683 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:08,726 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:14,735 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:14,735 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:20,748 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:20,750 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:26,763 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:26,764 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:32,773 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:32,774 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:38,787 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:38,787 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:44,800 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:44,802 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:50,884 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:50,884 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:14:56,901 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:14:56,902 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:02,912 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:02,914 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:08,924 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:08,924 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:14,936 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:14,936 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from engines.heur_engine import scan as heur_scan_engine
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:20,950 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:20,952 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    if yara_det or heur_det:
+                             
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:27,060 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:27,061 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    if yara_det or heur_det:
+                             
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:33,073 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:33,076 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    if yara_det or heur_det:
+                             
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:39,092 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:39,093 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    if yara_det or heur_det:
+                             
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'engines'
+2025-11-17 20:15:45,112 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:45,201 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 957, in dl_loop
+    if yara_det or heur_det:
+                             
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\engines\heur_engine.py", line 210, in <module>
+    _HEUR = HeuristicEngine()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\engines\heur_engine.py", line 119, in __init__
+    with open(rules_file) as f:
+         ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\m4rdr\\Videos\\engines\\heuristics.json'
+2025-11-17 20:15:51,945 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:56,701 - DEBUG - Quarantined: 959af9198200bccd_1763428556_14707378_2160_3840_30fps.mp4
+2025-11-17 20:15:57,707 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\1533390.zip
+2025-11-17 20:15:57,749 - DEBUG - Quarantined: f0fb4696bfae5eb2_1763428557_1533390.zip
+2025-11-17 20:15:58,753 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\7tsp_gui_2019_edition_by_devillnside_ddb5026.zip
+2025-11-17 20:15:59,111 - DEBUG - Quarantined: 009cbb93af100532_1763428559_7tsp_gui_2019_edition_by_devillnside_ddb5026.zip
+2025-11-17 20:16:00,119 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\ALERT.jpg
+2025-11-17 20:16:00,222 - DEBUG - Quarantined: d3093d5ed8dabb48_1763428560_ALERT.jpg
+2025-11-17 20:16:01,226 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Apple_icon-icons.com_68994 (1).png
+2025-11-17 20:16:01,239 - DEBUG - Download clean: Apple_icon-icons.com_68994 (1).png
+2025-11-17 20:16:02,248 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Apple_icon-icons.com_68994.ico
+2025-11-17 20:16:02,278 - DEBUG - Download clean: Apple_icon-icons.com_68994.ico
+2025-11-17 20:16:03,284 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Apple_icon-icons.com_68994.png
+2025-11-17 20:16:03,312 - DEBUG - Download clean: Apple_icon-icons.com_68994.png
+2025-11-17 20:16:04,316 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Bark-1.5.1.dll
+2025-11-17 20:16:08,011 - DEBUG - Quarantined: 1c664b4e8c029d4b_1763428568_Bark-1.5.1.dll
+2025-11-17 20:16:09,013 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE-PUBLIC-main.zip
+2025-11-17 20:16:09,145 - DEBUG - Quarantined: 81703cea4ce9dbc5_1763428569_BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE-PUBLIC-main.zip
+2025-11-17 20:16:10,148 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\BPInstallerWin.exe
+2025-11-17 20:16:22,538 - DEBUG - Quarantined: 2581564398fb5e6f_1763428582_BPInstallerWin.exe
+2025-11-17 20:16:23,539 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\BytesProtector.zip
+2025-11-17 20:16:23,587 - DEBUG - Quarantined: 076db151799bfa1f_1763428583_BytesProtector.zip
+2025-11-17 20:16:24,589 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\ccsetup_online_setup.exe
+2025-11-17 20:16:24,749 - DEBUG - Download clean: ccsetup_online_setup.exe
+2025-11-17 20:16:25,750 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Dazham.MacOS.Cursor.for.Windows.v1.0.0.zip
+2025-11-17 20:16:26,051 - DEBUG - Quarantined: 598a7ada1df835bb_1763428586_Dazham.MacOS.Cursor.for.Windows.v1.0.0.zip
+2025-11-17 20:16:27,052 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\desktop.ini
+2025-11-17 20:16:27,054 - DEBUG - Download clean: desktop.ini
+2025-11-17 20:16:28,055 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\DiscordSetup.exe
+2025-11-17 20:16:42,903 - DEBUG - Quarantined: 4e25167c638b592b_1763428602_DiscordSetup.exe
+2025-11-17 20:16:43,907 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Finder.ico
+2025-11-17 20:16:43,952 - DEBUG - Download clean: Finder.ico
+2025-11-17 20:19:31,298 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Apple_icon-icons.com_68994 (1).png
+2025-11-17 20:19:31,307 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 956, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 206, in <module>
+    _HEUR = HeuristicEngine()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 120, in __init__
+    self.rules = json.load(f)["rule_set"]
+                 ~~~~~~~~~~~~^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-17 20:19:37,318 - DEBUG - Auto-scan download: C:\Users\m4rdr\Downloads\Apple_icon-icons.com_68994 (1).png
+2025-11-17 20:19:37,318 - ERROR - dl_loop exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 956, in dl_loop
+    heur_det, heur_matches = self.heur_scan(p, strict_mode=False)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 206, in <module>
+    _HEUR = HeuristicEngine()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 120, in __init__
+    self.rules = json.load(f)["rule_set"]
+                 ~~~~~~~~~~~~^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-17 20:19:46,426 - DEBUG - Restored 959af9198200bccd_1763428556_14707378_2160_3840_30fps.mp4 -> C:\Users\m4rdr\Downloads\14707378_2160_3840_30fps.mp4
+2025-11-17 20:19:46,426 - DEBUG - Restored f0fb4696bfae5eb2_1763428557_1533390.zip -> C:\Users\m4rdr\Downloads\1533390.zip
+2025-11-17 20:19:46,439 - DEBUG - Restored 009cbb93af100532_1763428559_7tsp_gui_2019_edition_by_devillnside_ddb5026.zip -> C:\Users\m4rdr\Downloads\7tsp_gui_2019_edition_by_devillnside_ddb5026.zip
+2025-11-17 20:19:46,442 - DEBUG - Restored d3093d5ed8dabb48_1763428560_ALERT.jpg -> C:\Users\m4rdr\Downloads\ALERT.jpg
+2025-11-17 20:19:46,449 - DEBUG - Restored 1c664b4e8c029d4b_1763428568_Bark-1.5.1.dll -> C:\Users\m4rdr\Downloads\Bark-1.5.1.dll
+2025-11-17 20:19:46,451 - DEBUG - Restored 81703cea4ce9dbc5_1763428569_BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE-PUBLIC-main.zip -> C:\Users\m4rdr\Downloads\BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE-PUBLIC-main.zip
+2025-11-17 20:19:46,453 - DEBUG - Restored 2581564398fb5e6f_1763428582_BPInstallerWin.exe -> C:\Users\m4rdr\Downloads\BPInstallerWin.exe
+2025-11-17 20:19:46,455 - DEBUG - Restored 076db151799bfa1f_1763428583_BytesProtector.zip -> C:\Users\m4rdr\Downloads\BytesProtector.zip
+2025-11-17 20:19:46,458 - DEBUG - Restored 598a7ada1df835bb_1763428586_Dazham.MacOS.Cursor.for.Windows.v1.0.0.zip -> C:\Users\m4rdr\Downloads\Dazham.MacOS.Cursor.for.Windows.v1.0.0.zip
+2025-11-17 20:19:46,458 - DEBUG - Restored 4e25167c638b592b_1763428602_DiscordSetup.exe -> C:\Users\m4rdr\Downloads\DiscordSetup.exe
+2025-11-17 20:20:05,234 - DEBUG - === Start scan ===
+2025-11-17 20:20:05,234 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026/7tsp GUI v0.6(2019).exe
+2025-11-17 20:20:05,234 - DEBUG - Scan error: list indices must be integers or slices, not str
+2025-11-17 20:20:05,234 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 709, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 206, in <module>
+    _HEUR = HeuristicEngine()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 120, in __init__
+    self.rules = json.load(f)["rule_set"]
+                 ~~~~~~~~~~~~^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-17 20:27:11,707 - DEBUG - === Start scan ===
+2025-11-17 20:27:11,707 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026/7tsp GUI v0.6(2019).exe
+2025-11-17 20:27:11,716 - DEBUG - ✓ Clean: 7tsp GUI v0.6(2019).exe
+2025-11-17 20:27:11,716 - DEBUG - === Scan complete ===
+2025-11-17 20:28:03,502 - DEBUG - === Start scan ===
+2025-11-17 20:28:03,503 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026/7tsp GUI v0.6(2019).exe
+2025-11-17 20:28:03,521 - DEBUG - ✓ Clean: 7tsp GUI v0.6(2019).exe
+2025-11-17 20:28:03,525 - DEBUG - === Scan complete ===
+2025-11-17 20:28:31,218 - DEBUG - === Start scan ===
+2025-11-17 20:28:31,224 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:28:31,225 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:28:31,225 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:28:31,225 - DEBUG - Scan error: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\salinewin(1)\\salinewin-safety.exe'
+2025-11-17 20:28:31,225 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 709, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 754, in heur_scan
+    detected, score, reasons = heur_scan_engine(path)
+                               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 210, in scan
+    return _HEUR.evaluate(path)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 128, in evaluate
+    blob = pathlib.Path(path).read_bytes()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1019, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\salinewin(1)\\salinewin-safety.exe'
+2025-11-17 20:28:47,967 - DEBUG - === Start scan ===
+2025-11-17 20:28:47,973 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:28:47,974 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:28:47,984 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:28:58,742 - DEBUG - Scan error: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\salinewin(1)\\salinewin-safety.exe'
+2025-11-17 20:28:58,742 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 709, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 754, in heur_scan
+    detected, score, reasons = heur_scan_engine(path)
+                               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 210, in scan
+    return _HEUR.evaluate(path)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 128, in evaluate
+    blob = pathlib.Path(path).read_bytes()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1019, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\salinewin(1)\\salinewin-safety.exe'
+2025-11-17 20:29:20,731 - DEBUG - === Start scan ===
+2025-11-17 20:29:20,731 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:29:20,731 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:29:20,731 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:29:20,757 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:29:20,757 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-17 20:29:20,821 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:29:20,821 - DEBUG - === Scan complete ===
+2025-11-17 20:29:25,450 - DEBUG - === Start scan ===
+2025-11-17 20:29:25,466 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:29:25,466 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:29:25,478 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:29:25,481 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:29:25,497 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-17 20:29:25,497 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:29:25,554 - DEBUG - === Scan complete ===
+2025-11-17 20:30:50,131 - ERROR - Failed to load heuristics.json
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 99, in load_heur
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 252 column 5 (char 7753)
+2025-11-17 20:30:58,696 - DEBUG - === Start scan ===
+2025-11-17 20:30:58,696 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:30:58,696 - DEBUG - Scan error: Expecting ',' delimiter: line 252 column 5 (char 7753)
+2025-11-17 20:30:58,696 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 709, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 753, in heur_scan
+    from heur_engine import scan as heur_scan_engine   # ← no engines. prefix
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 206, in <module>
+    _HEUR = HeuristicEngine()
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\heur_engine.py", line 120, in __init__
+    self.rules = json.load(f)["rule_set"]
+                 ^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 252 column 5 (char 7753)
+2025-11-17 20:31:19,344 - DEBUG - === Start scan ===
+2025-11-17 20:31:19,344 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:31:19,344 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:31:19,344 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:31:19,360 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:31:19,360 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-17 20:31:19,383 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:31:19,383 - DEBUG - === Scan complete ===
+2025-11-17 20:31:54,851 - DEBUG - === Start scan ===
+2025-11-17 20:31:54,853 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:31:54,853 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:31:54,865 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:31:54,869 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:31:54,886 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-17 20:31:54,900 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:31:54,900 - DEBUG - === Scan complete ===
+2025-11-17 20:33:32,565 - DEBUG - === Start scan ===
+2025-11-17 20:33:32,565 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-17 20:33:32,565 - DEBUG - ✓ Clean: readme.txt
+2025-11-17 20:33:32,582 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-17 20:33:32,597 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:33:32,598 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-17 20:33:32,613 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:33:32,613 - DEBUG - === Scan complete ===
+2025-11-17 20:33:37,599 - DEBUG - === Start scan ===
+2025-11-17 20:33:37,599 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin.exe
+2025-11-17 20:33:37,603 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:33:37,603 - DEBUG - === Scan complete ===
+2025-11-17 20:33:49,505 - DEBUG - === Start scan ===
+2025-11-17 20:33:49,511 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026/7tsp GUI v0.6(2019).exe
+2025-11-17 20:33:49,524 - DEBUG - ✓ Clean: 7tsp GUI v0.6(2019).exe
+2025-11-17 20:33:49,529 - DEBUG - === Scan complete ===
+2025-11-17 20:34:13,703 - DEBUG - === Start scan ===
+2025-11-17 20:34:13,704 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\7tsp GUI v0.6(2019).exe
+2025-11-17 20:34:13,722 - DEBUG - ✓ Clean: 7tsp GUI v0.6(2019).exe
+2025-11-17 20:34:13,728 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\How To.txt
+2025-11-17 20:34:13,773 - DEBUG - ✓ Clean: How To.txt
+2025-11-17 20:34:13,774 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\Renam .ee to .exe.txt
+2025-11-17 20:34:13,775 - DEBUG - ✓ Clean: Renam .ee to .exe.txt
+2025-11-17 20:34:13,776 - DEBUG - === Scan complete ===
+2025-11-17 20:34:30,517 - DEBUG - === Start scan ===
+2025-11-17 20:34:30,518 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin.exe
+2025-11-17 20:34:30,530 - DEBUG - ✓ Clean: salinewin.exe
+2025-11-17 20:34:30,533 - DEBUG - === Scan complete ===
+2025-11-17 20:34:35,001 - DEBUG - === Start scan ===
+2025-11-17 20:34:35,003 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin-safety.exe
+2025-11-17 20:34:35,018 - DEBUG - ✓ Clean: salinewin-safety.exe
+2025-11-17 20:34:35,022 - DEBUG - === Scan complete ===
+2025-11-18 08:41:22,158 - DEBUG - === Start scan ===
+2025-11-18 08:41:22,159 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin.exe
+2025-11-18 08:41:22,159 - DEBUG - Scan error: name 'pathlib' is not defined
+2025-11-18 08:41:22,161 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 709, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 756, in heur_scan
+    sha = hashlib.sha256(pathlib.Path(path).read_bytes()).hexdigest()
+                         ^^^^^^^
+NameError: name 'pathlib' is not defined. Did you mean: 'hashlib'? Or did you forget to import 'pathlib'
+2025-11-18 08:43:14,176 - DEBUG - === Start scan ===
+2025-11-18 08:43:14,217 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin.exe
+2025-11-18 08:43:17,380 - DEBUG - ⚠️  MALWARE: salinewin.exe  rules: SalineWin_SHA256:7163fefbf2f865ef
+2025-11-18 08:43:17,385 - DEBUG - Quarantined: 7163fefbf2f865ef_1763473397_salinewin.exe
+2025-11-18 08:43:17,386 - DEBUG - === Scan complete ===
+2025-11-18 09:18:02,157 - DEBUG - === Start scan ===
+2025-11-18 09:18:02,162 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)/salinewin-safety.exe
+2025-11-18 09:18:03,457 - DEBUG - ⚠️  MALWARE: salinewin-safety.exe  rules: MalwareHash:279a19315055e93a
+2025-11-18 09:18:03,461 - DEBUG - Quarantined: 279a19315055e93a_1763475483_salinewin-safety.exe
+2025-11-18 09:18:03,465 - DEBUG - === Scan complete ===
+2025-11-18 09:18:44,128 - DEBUG - Restored 279a19315055e93a_1763475483_salinewin-safety.exe -> C:/Users/m4rdr/Downloads/salinewin(1)/salinewin-safety.exe
+2025-11-18 09:18:46,325 - DEBUG - Restored 7163fefbf2f865ef_1763473397_salinewin.exe -> C:/Users/m4rdr/Downloads/salinewin(1)/salinewin.exe
+2025-11-18 09:24:19,235 - DEBUG - === Start scan ===
+2025-11-18 09:24:19,281 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/malwaresample\c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf
+2025-11-18 09:24:19,298 - DEBUG - ⚠️  MALWARE: c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf  rules: MalwareHash:c09490aa3ea0e45a
+2025-11-18 09:24:19,312 - DEBUG - Quarantined: c09490aa3ea0e45a_1763475859_c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf
+2025-11-18 09:24:19,312 - DEBUG - === Scan complete ===
+2025-11-18 09:24:34,141 - DEBUG - Restored c09490aa3ea0e45a_1763475859_c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf -> C:/Users/m4rdr/Downloads/malwaresample\c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf
+2025-11-18 09:30:21,934 - DEBUG - === Start scan ===
+2025-11-18 09:30:21,934 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/malwaresample\c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf
+2025-11-18 09:30:21,934 - DEBUG - ⚠️  MALWARE: c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf  rules: MalwareHash:c09490aa3ea0e45a
+2025-11-18 09:30:21,950 - DEBUG - Quarantined: c09490aa3ea0e45a_1763476221_c09490aa3ea0e45aa2512f7a369a34399f6b0b4dd9f654d8946202096d3d48a6.elf
+2025-11-18 09:30:21,950 - DEBUG - === Scan complete ===
+2025-11-18 09:30:37,141 - DEBUG - === Start scan ===
+2025-11-18 09:30:37,144 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\readme.txt
+2025-11-18 09:30:37,205 - DEBUG - ✓ Clean: readme.txt
+2025-11-18 09:30:37,205 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin-safety.exe
+2025-11-18 09:30:37,210 - DEBUG - ⚠️  MALWARE: salinewin-safety.exe  rules: MalwareHash:279a19315055e93a
+2025-11-18 09:30:37,213 - DEBUG - Quarantined: 279a19315055e93a_1763476237_salinewin-safety.exe
+2025-11-18 09:30:37,213 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin(1)\salinewin.exe
+2025-11-18 09:30:37,218 - DEBUG - ⚠️  MALWARE: salinewin.exe  rules: MalwareHash:7163fefbf2f865ef
+2025-11-18 09:30:37,220 - DEBUG - Quarantined: 7163fefbf2f865ef_1763476237_salinewin.exe
+2025-11-18 09:30:37,233 - DEBUG - === Scan complete ===
+2025-11-18 09:30:57,578 - DEBUG - === Start scan ===
+2025-11-18 09:30:57,578 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\7tsp GUI v0.6(2019).exe
+2025-11-18 09:30:57,644 - DEBUG - ✓ Clean: 7tsp GUI v0.6(2019).exe
+2025-11-18 09:30:57,651 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\How To.txt
+2025-11-18 09:30:57,658 - DEBUG - ✓ Clean: How To.txt
+2025-11-18 09:30:57,658 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/7tsp_gui_2019_edition_by_devillnside_ddb5026\Renam .ee to .exe.txt
+2025-11-18 09:30:57,674 - DEBUG - ✓ Clean: Renam .ee to .exe.txt
+2025-11-18 09:30:57,674 - DEBUG - === Scan complete ===
+2025-11-18 09:38:08,437 - DEBUG - === Start scan ===
+2025-11-18 09:38:08,442 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/ANOTHERSAMPLE.zip
+2025-11-18 09:38:08,444 - DEBUG - ✓ Clean: ANOTHERSAMPLE.zip
+2025-11-18 09:38:08,444 - DEBUG - === Scan complete ===
+2025-11-18 09:38:35,530 - DEBUG - === Start scan ===
+2025-11-18 09:38:35,530 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/ANOTHERSAMPLE\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho
+2025-11-18 09:38:35,891 - DEBUG - Scan error: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\ANOTHERSAMPLE\\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho'
+2025-11-18 09:38:35,891 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 711, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 761, in heur_scan
+    sha = hashlib.sha256(pathlib.Path(path).read_bytes()).hexdigest()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1019, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\ANOTHERSAMPLE\\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho'
+2025-11-18 09:38:50,409 - DEBUG - === Start scan ===
+2025-11-18 09:38:50,412 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/ANOTHERSAMPLE\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho
+2025-11-18 09:38:50,943 - DEBUG - Scan error: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\ANOTHERSAMPLE\\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho'
+2025-11-18 09:38:50,943 - ERROR - scan_worker exception
+Traceback (most recent call last):
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 711, in scan_worker
+    heur_det, heur_matches = self.heur_scan(fpath, strict_mode)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\Videos\BytesProtector.py", line 761, in heur_scan
+    sha = hashlib.sha256(pathlib.Path(path).read_bytes()).hexdigest()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1019, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\m4rdr\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\m4rdr\\Downloads\\ANOTHERSAMPLE\\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho'
+2025-11-18 09:39:14,579 - DEBUG - === Start scan ===
+2025-11-18 09:39:14,579 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/ANOTHERSAMPLE\4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho
+2025-11-18 09:39:14,587 - DEBUG - ⚠️  MALWARE: 4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho  rules: MalwareHash:4d751dd363298589
+2025-11-18 09:39:14,589 - DEBUG - Quarantined: 4d751dd363298589_1763476754_4d751dd363298589cb436d78cd302f9d794ae1e3670722a464884be908671a9c.macho
+2025-11-18 09:39:14,595 - DEBUG - === Scan complete ===
+2025-11-18 11:46:03,860 - DEBUG - === Start scan ===
+2025-11-18 11:46:03,862 - DEBUG - === Scan complete ===
+2025-11-18 11:46:16,188 - DEBUG - === Start scan ===
+2025-11-18 11:46:16,188 - DEBUG - === Scan complete ===
+2025-11-18 11:46:21,813 - DEBUG - === Start scan ===
+2025-11-18 11:46:21,815 - DEBUG - === Scan complete ===
+2025-11-18 12:10:30,030 - DEBUG - === Start scan ===
+2025-11-18 12:10:30,030 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/steamcmd\steamcmd.exe
+2025-11-18 12:10:30,251 - DEBUG - ✓ Clean: steamcmd.exe
+2025-11-18 12:10:30,251 - DEBUG - === Scan complete ===
+2025-11-19 07:37:00,644 - DEBUG - === Start scan ===
+2025-11-19 07:37:00,688 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/steamcmd.zip
+2025-11-19 07:37:00,845 - DEBUG - ✓ Clean: steamcmd.zip
+2025-11-19 07:37:00,846 - DEBUG - === Scan complete ===
+2025-11-19 07:37:25,270 - DEBUG - === Start scan ===
+2025-11-19 07:37:25,276 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\job_id
+2025-11-19 07:37:25,319 - DEBUG - ✓ Clean: job_id
+2025-11-19 07:37:25,320 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\Readme.txt
+2025-11-19 07:37:25,323 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,323 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_api.dll
+2025-11-19 07:37:25,328 - DEBUG - ✓ Clean: steam_api.dll
+2025-11-19 07:37:25,329 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_api64.dll
+2025-11-19 07:37:25,333 - DEBUG - ✓ Clean: steam_api64.dll
+2025-11-19 07:37:25,334 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_appid.EDIT_AND_RENAME.txt
+2025-11-19 07:37:25,337 - DEBUG - ✓ Clean: steam_appid.EDIT_AND_RENAME.txt
+2025-11-19 07:37:25,338 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_interfaces.EXAMPLE.txt
+2025-11-19 07:37:25,339 - DEBUG - ✓ Clean: steam_interfaces.EXAMPLE.txt
+2025-11-19 07:37:25,340 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\debug_experimental\Readme.txt
+2025-11-19 07:37:25,342 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,343 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental\Readme.txt
+2025-11-19 07:37:25,344 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,345 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental\steamclient.dll
+2025-11-19 07:37:25,348 - DEBUG - ✓ Clean: steamclient.dll
+2025-11-19 07:37:25,349 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental\steamclient64.dll
+2025-11-19 07:37:25,351 - DEBUG - ✓ Clean: steamclient64.dll
+2025-11-19 07:37:25,370 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental\steam_api.dll
+2025-11-19 07:37:25,375 - DEBUG - ✓ Clean: steam_api.dll
+2025-11-19 07:37:25,377 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental\steam_api64.dll
+2025-11-19 07:37:25,383 - DEBUG - ✓ Clean: steam_api64.dll
+2025-11-19 07:37:25,384 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental_steamclient\ColdClientLoader.ini
+2025-11-19 07:37:25,386 - DEBUG - ✓ Clean: ColdClientLoader.ini
+2025-11-19 07:37:25,387 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental_steamclient\steamclient.dll
+2025-11-19 07:37:25,392 - DEBUG - ✓ Clean: steamclient.dll
+2025-11-19 07:37:25,392 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental_steamclient\steamclient64.dll
+2025-11-19 07:37:25,396 - DEBUG - ✓ Clean: steamclient64.dll
+2025-11-19 07:37:25,397 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\experimental_steamclient\steamclient_loader.exe
+2025-11-19 07:37:25,400 - DEBUG - ✓ Clean: steamclient_loader.exe
+2025-11-19 07:37:25,401 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\lobby_connect\lobby_connect_x64
+2025-11-19 07:37:25,405 - DEBUG - ✓ Clean: lobby_connect_x64
+2025-11-19 07:37:25,405 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\lobby_connect\lobby_connect_x86
+2025-11-19 07:37:25,410 - DEBUG - ✓ Clean: lobby_connect_x86
+2025-11-19 07:37:25,410 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\tools\find_interfaces.sh
+2025-11-19 07:37:25,412 - DEBUG - ✓ Clean: find_interfaces.sh
+2025-11-19 07:37:25,413 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\tools\steamclient_loader.sh
+2025-11-19 07:37:25,416 - DEBUG - ✓ Clean: steamclient_loader.sh
+2025-11-19 07:37:25,417 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\x86\libsteam_api.so
+2025-11-19 07:37:25,423 - DEBUG - ✓ Clean: libsteam_api.so
+2025-11-19 07:37:25,426 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\x86\steamclient.so
+2025-11-19 07:37:25,432 - DEBUG - ✓ Clean: steamclient.so
+2025-11-19 07:37:25,433 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\x86_64\libsteam_api.so
+2025-11-19 07:37:25,441 - DEBUG - ✓ Clean: libsteam_api.so
+2025-11-19 07:37:25,442 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\linux\x86_64\steamclient.so
+2025-11-19 07:37:25,447 - DEBUG - ✓ Clean: steamclient.so
+2025-11-19 07:37:25,449 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\lobby_connect\lobby_connect.exe
+2025-11-19 07:37:25,453 - DEBUG - ✓ Clean: lobby_connect.exe
+2025-11-19 07:37:25,454 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\lobby_connect\Readme.txt
+2025-11-19 07:37:25,455 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,456 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\source_code\Readme.txt
+2025-11-19 07:37:25,458 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,459 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\source_code\source_code.bundle
+2025-11-19 07:37:25,466 - DEBUG - ✓ Clean: source_code.bundle
+2025-11-19 07:37:25,467 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\achievements_EXAMPLE.json
+2025-11-19 07:37:25,469 - DEBUG - ✓ Clean: achievements_EXAMPLE.json
+2025-11-19 07:37:25,470 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\app_paths.EXAMPLE.txt
+2025-11-19 07:37:25,471 - DEBUG - ✓ Clean: app_paths.EXAMPLE.txt
+2025-11-19 07:37:25,472 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\build_id.EXAMPLE.txt
+2025-11-19 07:37:25,474 - DEBUG - ✓ Clean: build_id.EXAMPLE.txt
+2025-11-19 07:37:25,474 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\custom_broadcasts.EXAMPLE.txt
+2025-11-19 07:37:25,477 - DEBUG - ✓ Clean: custom_broadcasts.EXAMPLE.txt
+2025-11-19 07:37:25,478 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\default_items.EXAMPLE.json
+2025-11-19 07:37:25,480 - DEBUG - ✓ Clean: default_items.EXAMPLE.json
+2025-11-19 07:37:25,481 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\depots.EXAMPLE.txt
+2025-11-19 07:37:25,483 - DEBUG - ✓ Clean: depots.EXAMPLE.txt
+2025-11-19 07:37:25,484 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\disable_networking.EXAMPLE.txt
+2025-11-19 07:37:25,486 - DEBUG - ✓ Clean: disable_networking.EXAMPLE.txt
+2025-11-19 07:37:25,487 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\disable_overlay.EXAMPLE.txt
+2025-11-19 07:37:25,489 - DEBUG - ✓ Clean: disable_overlay.EXAMPLE.txt
+2025-11-19 07:37:25,490 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\DLC.EXAMPLE.txt
+2025-11-19 07:37:25,491 - DEBUG - ✓ Clean: DLC.EXAMPLE.txt
+2025-11-19 07:37:25,493 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\force_account_name.EXAMPLE.txt
+2025-11-19 07:37:25,495 - DEBUG - ✓ Clean: force_account_name.EXAMPLE.txt
+2025-11-19 07:37:25,496 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\force_language.EXAMPLE.txt
+2025-11-19 07:37:25,498 - DEBUG - ✓ Clean: force_language.EXAMPLE.txt
+2025-11-19 07:37:25,500 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\force_listen_port.EXAMPLE.txt
+2025-11-19 07:37:25,502 - DEBUG - ✓ Clean: force_listen_port.EXAMPLE.txt
+2025-11-19 07:37:25,502 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\force_steamid.EXAMPLE.txt
+2025-11-19 07:37:25,504 - DEBUG - ✓ Clean: force_steamid.EXAMPLE.txt
+2025-11-19 07:37:25,505 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\items.EXAMPLE.json
+2025-11-19 07:37:25,507 - DEBUG - ✓ Clean: items.EXAMPLE.json
+2025-11-19 07:37:25,507 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\leaderboards.EXAMPLE.txt
+2025-11-19 07:37:25,509 - DEBUG - ✓ Clean: leaderboards.EXAMPLE.txt
+2025-11-19 07:37:25,509 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\offline.EXAMPLE.txt
+2025-11-19 07:37:25,511 - DEBUG - ✓ Clean: offline.EXAMPLE.txt
+2025-11-19 07:37:25,511 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\stats.EXAMPLE.txt
+2025-11-19 07:37:25,514 - DEBUG - ✓ Clean: stats.EXAMPLE.txt
+2025-11-19 07:37:25,515 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\subscribed_groups.EXAMPLE.txt
+2025-11-19 07:37:25,518 - DEBUG - ✓ Clean: subscribed_groups.EXAMPLE.txt
+2025-11-19 07:37:25,518 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\supported_languages.EXAMPLE.txt
+2025-11-19 07:37:25,520 - DEBUG - ✓ Clean: supported_languages.EXAMPLE.txt
+2025-11-19 07:37:25,520 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\InGameControls.txt
+2025-11-19 07:37:25,522 - DEBUG - ✓ Clean: InGameControls.txt
+2025-11-19 07:37:25,522 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\MenuControls.txt
+2025-11-19 07:37:25,524 - DEBUG - ✓ Clean: MenuControls.txt
+2025-11-19 07:37:25,525 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\button_a.png
+2025-11-19 07:37:25,526 - DEBUG - ✓ Clean: button_a.png
+2025-11-19 07:37:25,527 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\button_b.png
+2025-11-19 07:37:25,528 - DEBUG - ✓ Clean: button_b.png
+2025-11-19 07:37:25,531 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\button_x.png
+2025-11-19 07:37:25,533 - DEBUG - ✓ Clean: button_x.png
+2025-11-19 07:37:25,533 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\button_y.png
+2025-11-19 07:37:25,534 - DEBUG - ✓ Clean: button_y.png
+2025-11-19 07:37:25,535 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\shoulder_l.png
+2025-11-19 07:37:25,537 - DEBUG - ✓ Clean: shoulder_l.png
+2025-11-19 07:37:25,537 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\shoulder_r.png
+2025-11-19 07:37:25,539 - DEBUG - ✓ Clean: shoulder_r.png
+2025-11-19 07:37:25,541 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_dpad_e.png
+2025-11-19 07:37:25,543 - DEBUG - ✓ Clean: stick_dpad_e.png
+2025-11-19 07:37:25,544 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_dpad_n.png
+2025-11-19 07:37:25,546 - DEBUG - ✓ Clean: stick_dpad_n.png
+2025-11-19 07:37:25,547 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_dpad_s.png
+2025-11-19 07:37:25,549 - DEBUG - ✓ Clean: stick_dpad_s.png
+2025-11-19 07:37:25,550 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_dpad_w.png
+2025-11-19 07:37:25,552 - DEBUG - ✓ Clean: stick_dpad_w.png
+2025-11-19 07:37:25,553 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_l_click.png
+2025-11-19 07:37:25,555 - DEBUG - ✓ Clean: stick_l_click.png
+2025-11-19 07:37:25,555 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_l_move.png
+2025-11-19 07:37:25,557 - DEBUG - ✓ Clean: stick_l_move.png
+2025-11-19 07:37:25,558 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_r_click.png
+2025-11-19 07:37:25,559 - DEBUG - ✓ Clean: stick_r_click.png
+2025-11-19 07:37:25,560 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\stick_r_move.png
+2025-11-19 07:37:25,561 - DEBUG - ✓ Clean: stick_r_move.png
+2025-11-19 07:37:25,562 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\trigger_l_click.png
+2025-11-19 07:37:25,565 - DEBUG - ✓ Clean: trigger_l_click.png
+2025-11-19 07:37:25,565 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\trigger_l_pull.png
+2025-11-19 07:37:25,567 - DEBUG - ✓ Clean: trigger_l_pull.png
+2025-11-19 07:37:25,568 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\trigger_r_click.png
+2025-11-19 07:37:25,569 - DEBUG - ✓ Clean: trigger_r_click.png
+2025-11-19 07:37:25,570 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\trigger_r_pull.png
+2025-11-19 07:37:25,572 - DEBUG - ✓ Clean: trigger_r_pull.png
+2025-11-19 07:37:25,572 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_dpad_e.png
+2025-11-19 07:37:25,573 - DEBUG - ✓ Clean: xbox_button_dpad_e.png
+2025-11-19 07:37:25,578 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_dpad_move.png
+2025-11-19 07:37:25,580 - DEBUG - ✓ Clean: xbox_button_dpad_move.png
+2025-11-19 07:37:25,581 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_dpad_n.png
+2025-11-19 07:37:25,583 - DEBUG - ✓ Clean: xbox_button_dpad_n.png
+2025-11-19 07:37:25,583 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_dpad_s.png
+2025-11-19 07:37:25,586 - DEBUG - ✓ Clean: xbox_button_dpad_s.png
+2025-11-19 07:37:25,587 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_dpad_w.png
+2025-11-19 07:37:25,588 - DEBUG - ✓ Clean: xbox_button_dpad_w.png
+2025-11-19 07:37:25,589 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_select.png
+2025-11-19 07:37:25,591 - DEBUG - ✓ Clean: xbox_button_select.png
+2025-11-19 07:37:25,591 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\controller.EXAMPLE\glyphs\xbox_button_start.png
+2025-11-19 07:37:25,593 - DEBUG - ✓ Clean: xbox_button_start.png
+2025-11-19 07:37:25,593 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\http.EXAMPLE\accounts.starbreeze.com\iam\oauth\token
+2025-11-19 07:37:25,595 - DEBUG - ✓ Clean: token
+2025-11-19 07:37:25,597 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\mods.EXAMPLE\12345\mod_file1
+2025-11-19 07:37:25,599 - DEBUG - ✓ Clean: mod_file1
+2025-11-19 07:37:25,600 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\mods.EXAMPLE\12345\mod_file2
+2025-11-19 07:37:25,601 - DEBUG - ✓ Clean: mod_file2
+2025-11-19 07:37:25,602 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\mods.EXAMPLE\12345\random_mod_file
+2025-11-19 07:37:25,604 - DEBUG - ✓ Clean: random_mod_file
+2025-11-19 07:37:25,604 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\steam_settings.EXAMPLE\mods.EXAMPLE\12345\Readme.txt
+2025-11-19 07:37:25,607 - DEBUG - ✓ Clean: Readme.txt
+2025-11-19 07:37:25,607 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\tools\generate_interfaces_file.exe
+2025-11-19 07:37:25,609 - DEBUG - ✓ Clean: generate_interfaces_file.exe
+2025-11-19 07:37:25,610 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/Goldberg_Lan_Steam_Emu_master--475342f0\tools\Readme_generate_interfaces.txt
+2025-11-19 07:37:25,611 - DEBUG - ✓ Clean: Readme_generate_interfaces.txt
+2025-11-19 07:37:25,612 - DEBUG - === Scan complete ===
+2025-11-20 18:43:54,164 - DEBUG - Deleted ALL quarantined
+2025-11-20 18:44:36,260 - DEBUG - === Start scan ===
+2025-11-20 18:44:36,265 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1).zip
+2025-11-20 18:44:36,453 - DEBUG - ✓ Clean: salinewin (1).zip
+2025-11-20 18:44:36,455 - DEBUG - === Scan complete ===
+2025-11-20 18:44:50,402 - DEBUG - === Start scan ===
+2025-11-20 18:44:50,403 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\readme.txt
+2025-11-20 18:44:50,407 - DEBUG - ✓ Clean: readme.txt
+2025-11-20 18:44:50,412 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\salinewin-safety.exe
+2025-11-20 18:44:50,416 - DEBUG - ⚠️  MALWARE: salinewin-safety.exe  rules: MalwareHash:279a19315055e93a
+2025-11-20 18:44:50,418 - DEBUG - Quarantined: 279a19315055e93a_1763682290_salinewin-safety.exe
+2025-11-20 18:44:50,420 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\salinewin.exe
+2025-11-20 18:44:50,426 - DEBUG - ⚠️  MALWARE: salinewin.exe  rules: MalwareHash:7163fefbf2f865ef
+2025-11-20 18:44:50,429 - DEBUG - Quarantined: 7163fefbf2f865ef_1763682290_salinewin.exe
+2025-11-20 18:44:50,437 - DEBUG - === Scan complete ===
+2025-11-20 18:44:57,848 - DEBUG - Restored 279a19315055e93a_1763682290_salinewin-safety.exe -> C:/Users/m4rdr/Downloads/salinewin (1)\salinewin-safety.exe
+2025-11-20 18:44:57,854 - DEBUG - Restored 7163fefbf2f865ef_1763682290_salinewin.exe -> C:/Users/m4rdr/Downloads/salinewin (1)\salinewin.exe
+2025-11-20 18:45:02,307 - DEBUG - === Start scan ===
+2025-11-20 18:45:02,308 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\readme.txt
+2025-11-20 18:45:02,351 - DEBUG - ✓ Clean: readme.txt
+2025-11-20 18:45:02,352 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\salinewin-safety.exe
+2025-11-20 18:45:02,355 - DEBUG - ⚠️  MALWARE: salinewin-safety.exe  rules: MalwareHash:279a19315055e93a
+2025-11-20 18:45:02,360 - DEBUG - Quarantined: 279a19315055e93a_1763682302_salinewin-safety.exe
+2025-11-20 18:45:02,361 - DEBUG - Scanning: C:/Users/m4rdr/Downloads/salinewin (1)\salinewin.exe
+2025-11-20 18:45:02,377 - DEBUG - ⚠️  MALWARE: salinewin.exe  rules: MalwareHash:7163fefbf2f865ef
+2025-11-20 18:45:02,391 - DEBUG - Quarantined: 7163fefbf2f865ef_1763682302_salinewin.exe
+2025-11-20 18:45:02,396 - DEBUG - === Scan complete ===
+2025-11-20 18:45:08,595 - DEBUG - Deleted 1 quarantined
+2025-11-20 18:45:11,415 - DEBUG - Deleted 1 quarantined
+2025-11-22 07:30:38,380 - WARNING - Bundle compile failed
+2025-11-22 13:01:50,790 - WARNING - Bundle compile failed
