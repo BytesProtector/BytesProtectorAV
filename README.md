@@ -1,0 +1,1 @@
+Please Install python before using this and then use the Run_BytesProtector.bat file, this is a temporary solution to use the app until i manage to fix it, im working on a new release to fix this bug and its almost done please wait though
